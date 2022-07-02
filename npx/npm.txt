@@ -1,0 +1,18 @@
+npm install @react-navigation/native
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm i @react-native-async-storage/async-storage
+
+npm install @react-navigation/bottom-tabs
+
+npm i redux react-redux redux-thunk
+
+npm install @hookform/resolvers
+
+npm install -S yup
+
+npm installer react-hook-form
+
+npm install tailwind-rn
+npm install useTailwind-rn
